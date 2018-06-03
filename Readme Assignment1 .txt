@@ -1,4 +1,4 @@
-1. Script is in python - Used spyder from anaconda package to write the code.
+1. Script is in python - Used spyder from anaconda package to write the code. Input 1 is the input xml file sample
 2. Tried to cover all the mail scenarios.
 3. Class is used to add all the unit tests.
 4. Tests can be run using class objects.
